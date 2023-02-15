@@ -1,0 +1,15 @@
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/bin/Debug/net6.0/AsyncWeather
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/bin/Debug/net6.0/AsyncWeather.deps.json
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/bin/Debug/net6.0/AsyncWeather.runtimeconfig.json
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/bin/Debug/net6.0/AsyncWeather.dll
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/bin/Debug/net6.0/AsyncWeather.pdb
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.csproj.AssemblyReference.cache
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.AssemblyInfoInputs.cache
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.AssemblyInfo.cs
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.csproj.CoreCompileInputs.cache
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.dll
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/refint/AsyncWeather.dll
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.pdb
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/AsyncWeather.genruntimeconfig.cache
+/Users/Arthur_Prado_De_Fazio/Projects/AsyncWeather/AsyncWeather/obj/Debug/net6.0/ref/AsyncWeather.dll
